@@ -10,7 +10,7 @@ import android.widget.SeekBar.OnSeekBarChangeListener; // SeekBar listener
 import android.widget.TextView; // for displaying text
 import java.text.NumberFormat; // for currency formatting
 
-// test
+
 
 public class MainActivity extends AppCompatActivity
 {
